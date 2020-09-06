@@ -1,12 +1,13 @@
 '''
 ICS6N SSII Grade Calculator
-by: Daniel Binoy
 Notes:
 - I have no idea if this actually works lol
 - Change the arrays below with your scores
 - participation is below that
 - @Instructor if you're reading this, please bless us
   with a nice final and a thick curve :)
+
+Author: Daniel Binoy, www.binoy.co
 '''
 
 #each set of grades is an array
