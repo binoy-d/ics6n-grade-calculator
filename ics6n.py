@@ -14,8 +14,10 @@ Notes:
 #of the form (score, total)
 
 #homework grades
-h = [(10.5, 11), (10, 10), (5, 5.5), (10, 10.75), (4.75, 9), (6.5,6.75), (3.25,4.75), (7,10)]
+#at the time of writing this, hw6 score hasn't been released for me so its hypothetical
+h = [(10.5, 11), (10, 10), (5, 5.5), (10, 10.75), (4.75, 9), (7,10), (6.5,6.75), (3.25,4.75)]
 
+#at the time of writing this, lab3 score hasn't been released for me so its hypothetical
 #lab grades
 l = [(5, 5), (7.25, 7.75), (5, 5)]
 
