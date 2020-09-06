@@ -35,7 +35,7 @@ participation = 1.0*10 #100% participation lol
 final = (0.95)*35 #hypothetical final grade = 95%
 
 #self explanatory
-nofinal = (homework+lab+quiz+participation)/(20+15+20+10)
+nofinal = 100*(homework+lab+quiz+participation)/(20+15+20+10)
 withfinal = (homework+lab+quiz+participation+final)
 
 print("Grade without final: ", nofinal)
